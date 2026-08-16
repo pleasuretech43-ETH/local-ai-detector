@@ -56,5 +56,19 @@ Every analyzed image on a webpage is programmatically annotated with:
 ## 📄 License
 
 - Extension Source Code: **MIT License** (see `LICENSE`)
+- ## 🎬 Live Demonstration 
+
+https://github.com/user-attachments/assets/2fce6012-05da-4d82-85c5-26d7d421274c
+
+https://github.com/user-attachments/assets/1b4c8c83-3307-4735-82e5-63e0c59b71ed
+
+<img width="1366" height="768" alt="reddit" src="https://github.com/user-attachments/assets/8972ce07-e279-4269-80b5-b23ef3851d43" />
+
+
+<img width="597" height="560" alt="work on x" src="https://github.com/user-attachments/assets/0a9674fc-6fed-428d-a5d0-be7fa285f477" />
+
+
+
+
 - Neural Model Weights: **Apache License 2.0** (Aedilic Inc. / Nonescape)
 - ONNX Runtime Web: **MIT License** (Microsoft Corporation)
