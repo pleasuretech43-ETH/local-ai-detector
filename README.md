@@ -32,7 +32,9 @@ Low-latency mobile inference utilizing viewport-first priority scheduling, hardw
 
 https://github.com/user-attachments/assets/2fce6012-05da-4d82-85c5-26d7d421274c
 
-https://github.com/user-attachments/assets/1b4c8c83-3307-4735-82e5-63e0c59b71ed
+https://github.com/user-attachments/assets/fc767dbb-11fc-443f-84e1-b91bdb38b629
+
+
 ---
 
 ## 3. System Architecture and Inference Pipeline
